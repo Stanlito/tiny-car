@@ -1,5 +1,5 @@
 {
-    "name": "Tiny Car",
+    "name": "Bloque Base Tiny Car",
     "description": "",
     "dependencies": {
         "core": "*",
